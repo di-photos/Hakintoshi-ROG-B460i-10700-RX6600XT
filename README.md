@@ -1,4 +1,4 @@
-# Hakintoshi-ROG B460i-10400-RX6600XT
+# Hakintoshi-ROG B460i-10700-RX6600XT
 這是一個使用華碩 ROG STRIX B460i 主機板，十代酷睿帶核顯CPU，以及訊景 RX 6600XT 海外版顯示卡的黑蘋果配置文件。如果您也使用 ROG B460i 主板和 AMD 免驅動顯卡，那麼該方案可直接套用（非核顯 CPU 小做修改即可）。
 ### ***Opencore版本为9.0，MacOS版本為13.2.1***
 
@@ -18,7 +18,7 @@
 
 *  Case: [ZS A4 V3.1](https://zscases.com/products/zs-a4-v3-2)
 *  Motherboard: [ASUS ROG B460i](https://rog.asus.com/motherboards/rog-strix/rog-strix-b460-i-gaming-model/)
-*  CPU: [Intel i5 10400](https://www.intel.com/content/www/us/en/products/sku/199271/intel-core-i510400-processor-12m-cache-up-to-4-30-ghz/specifications.html)
+*  CPU: [Intel i5 10700](https://www.intel.com/content/www/us/en/products/sku/199271/intel-core-i510700-processor-12m-cache-up-to-4-30-ghz/specifications.html)
 *  RAM: [Crucial Ballistix 32G（16x2）3200 c9bjz](https://www.crucial.com/memory/ddr4/bl2k16g32c16u4b)
 *  GPU: [XFX Speedster RX 6600XT MERC OC](https://www.xfxforce.com/shop/xfx-speedster-merc-308-amd-radeon-tm-rx-6600-xt-black)
 *  Cooler: [IDCOOLING IS47K](http://www.idcooling.com/Product/detail/id/205/name/IS-47K) with [Noctua NF A9](https://noctua.at/en/nf-a9-pwm)
